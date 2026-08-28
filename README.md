@@ -1,5 +1,5 @@
 Hi I'm Kent
 
-Masters in Computer Science in Ai in Biomedicine :eye:
+Master’s in Computer Science in Ai in Biomedical Imaging eye:
 
 I’m Currently working on cool personal projects :hammer:
