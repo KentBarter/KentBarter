@@ -1,5 +1,5 @@
 Hi I'm Kent
 
-Master’s in Computer Science in Ai in Biomedical Imaging :eye:
+Computer Science Graduate and Software Developer
 
-I’m Currently working on cool personal projects :hammer:
+I’m Currently working on cool personal projects here on Github
